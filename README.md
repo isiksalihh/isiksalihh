@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+⚡HTML </br>
+⚡CSS </br>
+⚡JAVASCRIPT
+
+🌱 Now i'm learning React
 
 <!--
 **isiksalihh/isiksalihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
